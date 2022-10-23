@@ -41,18 +41,18 @@ table {
 
 /*****************************IMAGES**********************************/
 .top_cloud_image {
-  height: 10%;
-  width: 5%;
+  height:auto;
+  width: 10%;
   position: absolute;
   top: 10%;
-  right: 20%;
+  right: 3%;
 }
 
 .bottom_cloud_image {
-  height: 10%;
-  width: 5%;
+  height:auto;
+  width: 10%;
   position: absolute;
-  left: 20%;
+  left: 10%;
 }
 
 .dev_image {
